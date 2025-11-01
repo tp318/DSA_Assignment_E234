@@ -1,0 +1,4 @@
+Initialize a totalCost variable to zero.
+Loop through all items from index i = 0 to N-1.
+Inside the loop, if the freshness A[i] is greater than or equal to X, add the corresponding cost B[i] to totalCost.
+After the loop, print the final totalCost.
